@@ -1,15 +1,16 @@
 # User config
-author: "Pineapple"
-tagline: "Pineapple Certfied Jekyll Theme"
-description: "In 1493, explorer Christopher Columbus found pineapples on Guadeloupe Island in the Caribbean. Pineapple on pizza soon followed..."
-keywords: "Pineapple, Pineapple Pizza, Pineapple House"
-email: "pineapple@example.com"
-linkedin: "https://www.linkedin.com/"
-twitter: "https://twitter.com/"
-github: "https://github.com/"
+author: "Marina Bronsten"
+tagline: "Marina Bronsten"
+description: "Hello! My name is Marina Bronsten. I am a US-based industrial design engineer, and graphic/product designer. With a B.A. in Industrial Design Engineering, a M.A. in Product Design, and experience in the design field, I have a diverse creative yet technical background. While my industrial design role equips me with the skills to discover insights, create concepts, and solve design problems, as a freelance illustrator, my aim is to bring colorful and vibrant illustrations to people, focusing on themes that occur on a daily basis."
+keywords: "Marina, Bronsten"
+email: "hellomarinabronsten@gmail.com"
+linkedin: "https://www.linkedin.com/in/marinabronsten"
+# twitter: "https://twitter.com/"
+# github: "https://github.com/"
+instagram: "https://www.instagram.com/marina_bronsten_illustration"
 
 # Site config
-baseurl: "/pineapple"
+baseurl: ""
 highlighter: rouge
 sass:
   sass_dir: assets/scss
